@@ -1,0 +1,5 @@
+etudiants = {
+    "Alice": 12.0,
+    "Bob": 15.0,
+    "Claire": 9.5
+}
